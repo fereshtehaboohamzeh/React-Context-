@@ -1,7 +1,7 @@
 # React Context
 
 A very simple React project to show how to start with ReactContext.
-This project is the implementation of the below article:
+This project is the implementation of:
 https://blog.logrocket.com/use-hooks-and-context-not-react-and-redux/
 
 ## Initialize
