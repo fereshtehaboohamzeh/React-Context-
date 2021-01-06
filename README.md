@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Initialize
 
-Clone the project then 
-# `yarn install`
+Clone the project then run
+#### `yarn install`
 
 ### `yarn start`
 
